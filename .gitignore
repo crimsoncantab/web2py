@@ -56,3 +56,5 @@ HOWTO-web2py-devel
 *.sublime-project
 *.sublime-workspace
 .idea/*
+server.key
+server.crt

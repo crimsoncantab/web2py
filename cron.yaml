@@ -1,0 +1,5 @@
+# /cron.yaml
+cron:
+- description: keep cache fresh
+  url: /cacheversion
+  schedule: every 15 minutes
